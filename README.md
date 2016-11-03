@@ -1,2 +1,3 @@
 # eslint-config-renrenche
-Airbnb's JavaScript rule is too strict.
+
+RenRenChe JavaScript style guide
