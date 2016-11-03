@@ -41,6 +41,8 @@ module.exports = {
     'prefer-arrow-callback': 'off', // 不强制使用箭头函数
     'import/no-amd': 'off', // 不禁用 amd
     'func-names': 'off', // 不强制函数表达式有函数名
+    'guard-for-in': 'off',
+    'no-param-reassign': 'off',
     'no-restricted-syntax': [2, 'DebuggerStatement', 'LabeledStatement', 'WithStatement'], // 不禁止 for in 循环
     'arrow-parens': 'off',
     'padded-blocks': 'off',
