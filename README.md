@@ -5,7 +5,7 @@ RenRenChe JavaScript style guide
 ## Installation
 
 ```sh
-npm install --save-dev eslint-config-renrenche
+npm install --save-dev eslint@3 eslint-plugin-import@2 eslint-config-renrenche
 ```
 
 ## Usage
