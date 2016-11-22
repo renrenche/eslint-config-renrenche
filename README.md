@@ -2,6 +2,9 @@
 
 RenRenChe JavaScript style guide
 
+[![npm](https://img.shields.io/npm/v/eslint-config-renrenche.svg)](https://www.npmjs.com/package/eslint-config-renrenche)
+[![license](https://img.shields.io/npm/l/eslint-config-renrenche.svg)](https://www.npmjs.com/package/eslint-config-renrenche)
+
 ## Installation
 
 ```sh
