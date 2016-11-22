@@ -23,13 +23,17 @@
     "url": "https://github.com/renrenche/eslint-config-renrenche/issues"
   },
   "homepage": "https://github.com/renrenche/eslint-config-renrenche#readme",
+  "eslintConfig": {
+    "extends": "airbnb-base"
+  },
   "dependencies": {
-    "eslint-config-airbnb-base": "9.0.0",
-    "eslint": "^3.9.0",
-    "eslint-plugin-import": "^2.0.1"
+    "eslint-config-airbnb-base": "9.0.0"
   },
   "peerDependencies": {
-    "eslint": "^3.9.0",
+    "eslint": "^3.10.2",
     "eslint-plugin-import": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2"
   }
 }
