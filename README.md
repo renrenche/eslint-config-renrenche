@@ -21,7 +21,7 @@ Add
 }
 ```
 
-to `package.json -> eslintConfig` or `eslintrc.json`
+to `package.json -> eslintConfig` or `.eslintrc.json`
 
 ## License
 
