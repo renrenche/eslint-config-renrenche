@@ -94,5 +94,8 @@ module.exports = {
 
     // 不强制 export default（只 export 一次）
     'import/prefer-default-export': 'off',
+
+    // 不强制 import resolve
+    'import/no-unresolved': 'off',
   },
 };
